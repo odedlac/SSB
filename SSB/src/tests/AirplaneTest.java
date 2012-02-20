@@ -76,7 +76,7 @@ public class AirplaneTest {
 	@Test
 	public void test3() {
 				
-		String expectedOutput = "Like a  passenger airplane";
+		String expectedOutput = "Like a passenger airplane";
 		String stringReturned = null;
 		
 		AirPlaneFactory passengerPlaneFactory = new PassengerPlaneFactory();
